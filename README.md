@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 📊 Github Stats
-![Johoski's GitHub stats](https://github-readme-stats.vercel.app/api?Johoski=anuraghazra&show_icons=true&theme=radical)
+![Johoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johoski&show_icons=true&theme=radical)
 
 </a>
 
