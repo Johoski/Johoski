@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Cemu
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about KiriKiri to Renpy
-- 😄 Pronouns: he/him 🏳️‍🌈⃠ 
+- 😄 Pronouns: he/him
