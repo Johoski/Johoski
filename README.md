@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Johoski/Johoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 📊 Github Stats
 <a href='https://github.com/Johoski/github-stats-transparent'>
 
