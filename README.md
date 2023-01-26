@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about KiriKiri to Renpy
 - 😄 Pronouns: he/him 🏳️‍🌈⃠ 
--->
