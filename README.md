@@ -2,7 +2,15 @@
 
 <!--
 **Johoski/Johoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=Johoski&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+### 📊 Github Stats
+<a href='https://github.com/Johoski/github-stats-transparent'>
+
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
