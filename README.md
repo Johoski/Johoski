@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, C++
 - 👯 I’m looking to collaborate on Cemu
 - 🤔 I’m looking for help with C++
-- 💬 Ask me about KiriKiri to Renpy
-- 😄 Pronouns: he/him
+- 💬 Ask me about KiriKiri to Renpy conversion
