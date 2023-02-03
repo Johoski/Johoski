@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [johoski.github.io](https://github.com/Johoski/johoski.github.io)
 
-- 🌱 I’m currently learning **Java, php, HTML, CSS, Python**
+- 🌱 I’m currently learning **Java, Kotlin, PHP, HTML, CSS, Python**
 
 - 👯 I’m looking to collaborate on [Cemu](https://github.com/cemu-project/Cemu)
 
